@@ -16,21 +16,21 @@ This board comes as a “bag of parts” kit. All of the parts are through-hole 
 
 **Kit Includes:**
 
-  ‘Uh-oh’ Through-hole PCB
-  10mm Diffused Green LED
-  JST Wire Assembly
-  TL431ACLPG IC
-  JST Right-Angle Connector
-  10K Trimpot
-  330 Ohm Resistor
+  + ‘Uh-oh’ Through-hole PCB
+  + 10mm Diffused Green LED
+  + JST Wire Assembly
+  + TL431ACLPG IC
+  + JST Right-Angle Connector
+  + 10K Trimpot
+  + 330 Ohm Resistor
 
 **Documents:**
 
-  [Schematic](http://cdn.sparkfun.com/datasheets/Kits/UhOh-v11_corrected.pdf)
-  [Eagle Files](http://cdn.sparkfun.com/datasheets/Kits/UhOh-v11.zip)
-  [Datasheet](http://cdn.sparkfun.com/datasheets/Kits/TL431-D.pdf) (TL431ACLPG)
-  [Hookup Guide](https://learn.sparkfun.com/tutorials/uh-oh-battery-level-indicator-hookup-guide?_ga=1.181556452.2131958465.1460852985)
-  [GitHub](https://github.com/sparkfun/Uh-Oh_Battery_Indicator)
+  + [Schematic](http://cdn.sparkfun.com/datasheets/Kits/UhOh-v11_corrected.pdf)
+  + [Eagle Files](http://cdn.sparkfun.com/datasheets/Kits/UhOh-v11.zip)
+  + [Datasheet](http://cdn.sparkfun.com/datasheets/Kits/TL431-D.pdf) (TL431ACLPG)
+  + [Hookup Guide](https://learn.sparkfun.com/tutorials/uh-oh-battery-level-indicator-hookup-guide?_ga=1.181556452.2131958465.1460852985)
+  + [GitHub](https://github.com/sparkfun/Uh-Oh_Battery_Indicator)
 
 Repository Contents
 -------------------
